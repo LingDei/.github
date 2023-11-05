@@ -28,7 +28,7 @@
 
 ## 架构图
 
-![架构图](platform.png)
+![架构图](./profile/platform.png)
 
 ## 仓库
 
